@@ -4,7 +4,7 @@ A full-stack web application designed to streamline end-to-end hospital operatio
 
 ## 📋 Overview
 
-The Hospital Management System is a comprehensive solution that digitizes and automates various hospital operations across three major hospitals: City General Hospital, Downtown Medical Center, and Green Valley Hospital. It provides an integrated platform for managing patient records, appointments, billing, bed availability, staff management, and medical services, ensuring efficient healthcare delivery and administrative processes.
+The Hospital Management System is a comprehensive solution that digitizes and automates various hospital operations. It provides an integrated platform for managing patient records, appointments, billing, bed availability, staff management, and medical services, ensuring efficient healthcare delivery and administrative processes.
 
 ## ✨ Features
 
